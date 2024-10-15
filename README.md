@@ -49,6 +49,9 @@ Creative Design Jakarta atau singkatan dari CDJ adalah toko percetakan, sablon d
 ## Media sosial
 [<img title="Facebook | Creative Design Jakarta" width="96px" src="https://freepnglogo.com/images/all_img/1723789425facebook-f-logo.png">](https://www.facebook.com/creativedesignbekasi) [<img title="YouTube | Creative Design Jakarta" width="96px" src="https://goodly.co.in/wp-content/uploads/2023/10/youtube-logo-png-46016-1.png">](https://www.youtube.com/@creativedesignbekasi3340) [<img title="Instagram | Creative Design Jakarta" width="96px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png">](https://www.instagram.com/creativedesignjakarta)
 
+## Konfigurasi Sepanel
+[→ Project Builder](https://github.com/CusMeDroid/sepanel)
+
 ## Template Deskripsi
 ```txt
 CREATIVE DESIGN JAKARTA hadir untuk memenuhi kebutuhan produk kemasan makanan, minuman, segel serta kemasan produk lainnya dengan harga yang TERJANGKAU dan BERKUALITAS.
