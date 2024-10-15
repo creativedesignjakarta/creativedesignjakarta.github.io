@@ -63,11 +63,15 @@
                     <img class="logo_sepanel" alt="Sepanel Logo" src="logo_sepanel.png">
                 </a>
                 <div class="mtabs">
-                    <button class="tablink" onclick="openPage('Add', this, '#FFF')" id="defaultOpen"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span class="ml4">Tambah/Edit</span></button>
+                    <button class="tablink" onclick="openPage('Dasbor', this, '#FFF')" id="defaultOpen"><i class="fa fa-tachometer" aria-hidden="true"></i><span class="ml4">Dasbor</span></button>
+                    <button id="ta" class="tablink" onclick="openPage('Add', this, '#FFF')" id="defaultOpen"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span class="ml4">Tambah/Edit</span></button>
                     <button id="tb" class="tablink" onclick="openPage('Manage', this, '#FFF')"><i class="fa fa-list" aria-hidden="true"></i><span class="ml4">Kelola</span></button>
                     <button id="tc" class="tablink" onclick="openPage('Settings', this, '#FFF')"><i class="fa fa-cog" aria-hidden="true"></i><span class="ml4">Pengaturan</span></button>
                     <button id="td" class="tablink" onclick="openPage('Widget', this, '#FFF')"><i class="fa fa-th-large" aria-hidden="true"></i><span class="ml4">Widget</span></button>
                 </div>
+            </div>
+            <div id="Dasbor" class="tabcontent">
+                <div id="spanel_dasbor"></div>
             </div>
             <div id="Add" class="tabcontent">
                 <div id="shopdate"></div>
