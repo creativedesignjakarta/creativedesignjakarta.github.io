@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Disallow: /*.html$
+
+Sitemap: https://babuprograms.web.app/sitemap.xml
